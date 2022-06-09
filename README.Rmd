@@ -1,0 +1,12 @@
+---  
+title: "NBIO750: Neuroanalytics scRNA-seq workshop"
+output: github_document
+toc: yes 
+---
+
+
+```{r child = 'NBIO750_2022_scRNA_day1.Rmd'}
+```
+
+```{r child = 'NBIO750_2022_scRNA_day2.Rmd'}
+```
